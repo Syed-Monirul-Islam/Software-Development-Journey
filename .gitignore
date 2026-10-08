@@ -107,3 +107,7 @@ uploads/
 .DS_Store
 Thumbs.db
 desktop.ini
+# ===========================
+# Competitive Programming Helper (cph)
+.cph/
+*.prob
